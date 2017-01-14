@@ -182,8 +182,6 @@ button, input[type=submit] {
     display: inline-block;
     margin: 0;
     padding: 0 8px 1px;
-    background-color: #14445B;
-    border: 1px solid #14445B;
     color: white !important;
     font-weight: 700;
     font-size: small;
@@ -193,6 +191,16 @@ button, input[type=submit] {
     box-shadow: inset 0 1px 0 #14445B;
     cursor: pointer;
     width: 185px;
+}
+
+#flair-select-submit {
+    background-color: #14445B;
+    border: 1px solid #14445B;
+}
+
+#flair-remove-submit {
+    background-color: #D43117;
+    border: 1px solid #D43117;
 }
 
 button:hover, input[type=submit]:hover { background-color: #3F8FB5; }

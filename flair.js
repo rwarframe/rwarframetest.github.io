@@ -41,9 +41,6 @@ flair.load__by_id = function() {
 flair.by_id = {}
 flair.names = {
 /* [STANDARD] */
-
-    /* Remove Flair*/
-    "0 removeflair none": "Remove Flair",
     
     /* Prime Warframes (0-14) */
     "0 primewarframesflair ash-prime": "Ash Prime",
