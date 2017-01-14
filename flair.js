@@ -274,7 +274,7 @@ flair.names = {
     "9 otherwarframehelmetsflair ember-phoenix-helmet": "Ember Phoenix helmet",
     "10 otherwarframehelmetsflair equinox-solstice-helmet": "Equinox Solstice helmet",
     "11 otherwarframehelmetsflair excalibur-avalon-helmet": "Excalibur Avalon helmet",
-    "12 otherwarframehelmetsflair excalibur-jade-helmet": "Excalibur Jade helmet (XB1 exclusive)",
+    /*"12 otherwarframehelmetsflair excalibur-jade-helmet": "Excalibur Jade helmet (XB1 exclusive)",*/
     "13 otherwarframehelmetsflair excalibur-mordred-helmet": "Excalibur Mordred helmet",
     "14 otherwarframehelmetsflair excalibur-obsidian-helmet": "Excalibur Obsidian helmet",
     "15 otherwarframehelmetsflair excalibur-obsidian-azura-helmet": "Excalibur Obsidian Azura helmet",
