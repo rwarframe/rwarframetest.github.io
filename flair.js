@@ -181,14 +181,14 @@ flair.names = {
     "50 deluxewarframeskinsflair ash-koga-helmet": "Ash Koga helmet",
     "51 deluxewarframeskinsflair banshee-soprana-helmet": "Banshee Soprana helmet",
     "52 deluxewarframeskinsflair excalibur-proto-helmet": "Excalibur Proto helmet",
-    "53 deluxewarframeskinsflair loki-knave-helmet": "Loki Knave helmet",
-    "54 deluxewarframeskinsflair nova-asuri-helmet": "Nova Asuri helmet",
+    /*"53 deluxewarframeskinsflair loki-knave-helmet": "Loki Knave helmet",*/
+    /*"54 deluxewarframeskinsflair nova-asuri-helmet": "Nova Asuri helmet",*/
     "55 deluxewarframeskinsflair nyx-nemesis-helmet": "Nyx Nemesis helmet",
-    "56 deluxewarframeskinsflair oberon-feyarch-helmet": "Oberon Feyarch helmet",
-    "57 deluxewarframeskinsflair rhino-palatine-helmet": "Rhino Palatine helmet",
-    "58 deluxewarframeskinsflair saryn-orphid-helmet": "Saryn Orphid helmet",
-    "59 deluxewarframeskinsflair trinity-strega-helmet": "Trinity Strega helmet",
-    "60 deluxewarframeskinsflair valkyr-gersemi-helmet": "Valkyr Gersemi helmet",
+    /*"56 deluxewarframeskinsflair oberon-feyarch-helmet": "Oberon Feyarch helmet",*/
+    /*"57 deluxewarframeskinsflair rhino-palatine-helmet": "Rhino Palatine helmet",*/
+    /*"58 deluxewarframeskinsflair saryn-orphid-helmet": "Saryn Orphid helmet",*/
+    /*"59 deluxewarframeskinsflair trinity-strega-helmet": "Trinity Strega helmet",*/
+    /*"60 deluxewarframeskinsflair valkyr-gersemi-helmet": "Valkyr Gersemi helmet",*/
     
     
     /* TennoGen Warframe Helmets (0-66)*/
@@ -196,10 +196,10 @@ flair.names = {
     "1 tennogenwarframehelmetsflair atlas-arhat-helmet": "Atlas Arhat helmet (Steam exclusive by Rekkou)",
     "2 tennogenwarframehelmetsflair atlas-telamon-helmet": "Atlas Telamon helmet (Steam exclusive by artarrwen)",
     "3 tennogenwarframehelmetsflair banshee-echo-helmet": "Banshee Echo helmet (Steam exclusive by Rekkou)",
-    "4 tennogenwarframehelmetsflair chroma-drevni-helmet": "Chroma Drevni helmet (Steam exclusive by Volkovyi)",
+    /*"4 tennogenwarframehelmetsflair chroma-drevni-helmet": "Chroma Drevni helmet (Steam exclusive by Volkovyi)",*/
     "5 tennogenwarframehelmetsflair chroma-kaiju-helmet": "Chroma Kaiju helmet (Steam exclusive by [k a z])",
     "6 tennogenwarframehelmetsflair chroma-tarrasque-helmet": "Chroma Tarrasque helmet (Steam exclusive by artarrwen)",
-    "7 tennogenwarframehelmetsflair chroma-vojnik-helmet": "Chroma Vojnik Battle-Damaged helmet (Steam exclusive by Volkovyi)",
+    /*"7 tennogenwarframehelmetsflair chroma-vojnik-helmet": "Chroma Vojnik Battle-Damaged helmet (Steam exclusive by Volkovyi)",*/
     "8 tennogenwarframehelmetsflair ember-graxx-helmet": "Ember Graxx helmet (Steam exclusive by Faven_PS)",
     "9 tennogenwarframehelmetsflair excalibur-apex-helmet": "Excalibur Apex helmet (Steam exclusive by antoineflemming)",
     "10 tennogenwarframehelmetsflair excalibur-arturius-helmet": "Excalibur Arturius helmet (Steam exclusive by [k a z])",
@@ -243,7 +243,7 @@ flair.names = {
     "48 tennogenwarframehelmetsflair nyx-graxx-helmet": "Nyx Graxx helmet (Steam exclusive by Faven_PS)",
     "49 tennogenwarframehelmetsflair oberon-destrier-helmet": "Oberon Destrier helmet (Steam exclusive by Rekkou)",
     "50 tennogenwarframehelmetsflair rhino-graxx-helmet": "Rhino Graxx helmet (Steam exclusive by Faven_PS)",
-    "51 tennogenwarframehelmetsflair rhino-vojnik-helmet": "Rhino Vojnik Battle-Damaged helmet (Steam exclusive by Volkovyi)",
+    /*"51 tennogenwarframehelmetsflair rhino-vojnik-helmet": "Rhino Vojnik Battle-Damaged helmet (Steam exclusive by Volkovyi)",*/
     "52 tennogenwarframehelmetsflair saryn-graxx-helmet": "Saryn Graxx helmet (Steam exclusive by Faven_PS)",
     "53 tennogenwarframehelmetsflair trinity-messiah-helmet": "Trinity Messiah helmet (Steam exclusive by Cheshire)",
     "54 tennogenwarframehelmetsflair valkyr-cheetah-helmet": "Valkyr Cheetah helmet (Steam exclusive by Cheshire)",
