@@ -62,11 +62,18 @@ body {
 
 .spacer { margin: 5px 0; }
 
+#flair-selection-flair {
+    position: relative;
+    left: 180%;
+}
+
 #flair-selection-name {
     color: white !important;
     text-align: center;
     width: 185px;
     word-wrap: normal;
+    left: 25%;
+    position: relative;
 }
 
 select, input[type=text], input[type=number] {
@@ -122,6 +129,8 @@ label input[type=checkbox] + span { margin-left: 5px; }
     padding: 3px 0px 3px 0px;
     text-indent: 4px;
     width: 185px;
+    position: relative;
+    left: 25%;
 }
 
 #flair-filter-text, #flair-filter-sheet {
