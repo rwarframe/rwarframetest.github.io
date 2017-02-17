@@ -87,7 +87,7 @@ flair.names = {
     "19 regularwarframesflair nova": "Nova",
     "20 regularwarframesflair nyx": "Nyx",
     "21 regularwarframesflair oberon": "Oberon",
-    "22 regularwarframesflair rhino": "Rhino",
+    /*"22 regularwarframesflair rhino": "Rhino",*/
     "22 regularwarframesflair rhino charging": "Rhino (charging)",
     "23 regularwarframesflair saryn": "Saryn",
     "24 regularwarframesflair titania": "Titania",
