@@ -296,7 +296,7 @@ button:active, input[type=submit]:active { box-shadow: inset 0 2px 4px rgba(0, 0
     100% { transform: scale(1.25)}
 }
 
-.flair.charging:before {
+.flair.flair-rhino-charging:before {
     -webkit-animation: charging 3s infinite;
     -moz-animation: charging 3s infinite;
     animation: charging 3s infinite;
