@@ -273,7 +273,13 @@ button:active, input[type=submit]:active { box-shadow: inset 0 2px 4px rgba(0, 0
     animation: flying 5s infinite;
 }
 
-@-webkit-keyframes invisible, @keyframes invisible {
+@-webkit-keyframes invisible {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+@keyframes invisible {
     0% { opacity: 0; }
     50% { opacity: 1; }
     100% { opacity: 0; }
