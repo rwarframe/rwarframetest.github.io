@@ -267,7 +267,7 @@ button:active, input[type=submit]:active { box-shadow: inset 0 2px 4px rgba(0, 0
     75% { transform: scale(1)}
 }
 
-.flair.flying {
+.flair.flair-flying {
     -webkit-animation: flying 5s infinite;
     -moz-animation: flying 5s infinite;
     animation: flying 5s infinite;
@@ -279,7 +279,7 @@ button:active, input[type=submit]:active { box-shadow: inset 0 2px 4px rgba(0, 0
     100% { opacity: 0; }
 }
 
-.flair.invisible {
+.flair.flair-invisible {
     -webkit-animation: invisible 3s infinite;
     -moz-animation: invisible 3s infinite;
     animation: invisible 3s infinite;
@@ -296,7 +296,7 @@ button:active, input[type=submit]:active { box-shadow: inset 0 2px 4px rgba(0, 0
     100% { transform: scale(1.25)}
 }
 
-.flair.flair-rhino-charging {
+.flair.flair-charging {
     -webkit-animation: charging 3s infinite;
     -moz-animation: charging 3s infinite;
     animation: charging 3s infinite;
