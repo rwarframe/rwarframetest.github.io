@@ -351,10 +351,10 @@ flair.names = {
     /* companions (0-31) */
     /*"0 companionsflair carrier-prime": "Carrier Prime",*/
     "1 companionsflair wyrm-prime": "Wyrm Prime",
-    "2 companionsflair shade-prisma": "Shade Prisma",*/
+    /*"2 companionsflair shade-prisma": "Shade Prisma",*/
     "3 companionsflair carrier": "Carrier",
     "4 companionsflair dethcube": "Dethcube",
-    "5 companionsflair diriga": "Diriga",*/
+    /*"5 companionsflair diriga": "Diriga",*/
     "6 companionsflair djinn": "Djinn",
     "7 companionsflair helios": "Helios",
     "8 companionsflair shade": "Shade",
