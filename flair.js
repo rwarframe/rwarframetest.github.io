@@ -349,28 +349,28 @@ flair.names = {
     
     
     /* companions (0-31) */
-    "0 companionsflair carrier-prime": "Carrier Prime",
+    /*"0 companionsflair carrier-prime": "Carrier Prime",*/
     "1 companionsflair wyrm-prime": "Wyrm Prime",
-    "2 companionsflair shade-prisma": "Shade Prisma",
+    "2 companionsflair shade-prisma": "Shade Prisma",*/
     "3 companionsflair carrier": "Carrier",
     "4 companionsflair dethcube": "Dethcube",
-    "5 companionsflair diriga": "Diriga",
+    "5 companionsflair diriga": "Diriga",*/
     "6 companionsflair djinn": "Djinn",
     "7 companionsflair helios": "Helios",
     "8 companionsflair shade": "Shade",
     "9 companionsflair taxon": "Taxon",
     "10 companionsflair wyrm": "Wyrm",
-    "11 companionsflair carrier-para-skin": "Carrier Para skin",
-    "12 companionsflair carrier-para-bundle": "Carrier Para Bundle",
-    "13 companionsflair dethcube-carabus-skin": "Dethcube Carabus skin",
-    "14 companionsflair dethcube-forest-camo-skin": "Dethcube Forest-Camo skin",
+    /*"11 companionsflair carrier-para-skin": "Carrier Para skin",*/
+    /*"12 companionsflair carrier-para-bundle": "Carrier Para Bundle",*/
+    /*"13 companionsflair dethcube-carabus-skin": "Dethcube Carabus skin",*/
+    /*"14 companionsflair dethcube-forest-camo-skin": "Dethcube Forest-Camo skin",*/
     "15 companionsflair dethcube-jade-skin": "Dethcube Jade skin",
-    "16 companionsflair diriga-nightwatch-skin": "Diriga Nightwatch skin",
+    /*"16 companionsflair diriga-nightwatch-skin": "Diriga Nightwatch skin",*/
     "17 companionsflair djinn-gazal-skin": "Djinn Gazal skin",
     "18 companionsflair helios-obsidian-skin": "Helios Obsidian skin",
-    "19 companionsflair helios-simaris-skin": "Helios Simaris skin",
-    "20 companionsflair shade-sprite-skin": "Shade Sprite skin",
-    "21 companionsflair wyrm-obsidian-skin": "Wyrm Obsidian skin",
+    /*"19 companionsflair helios-simaris-skin": "Helios Simaris skin",*/
+    /*"20 companionsflair shade-sprite-skin": "Shade Sprite skin",*/
+    /*"21 companionsflair wyrm-obsidian-skin": "Wyrm Obsidian skin",*/
     "22 companionsflair kavat-a": "Kavat",
     "23 companionsflair kavat-b": "Kavat",
     "24 companionsflair kavat-c": "Kavat",
