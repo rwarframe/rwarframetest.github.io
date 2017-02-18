@@ -58,8 +58,6 @@ flair.names = {
     "12 primewarframesflair vauban-prime": "Vauban Prime",
     "13 primewarframesflair volt-prime": "Volt Prime",
     "14 primewarframesflair valkyr-prime": "Valkyr Prime",
-    "0 primewarframesflair ash-prime-invisible": "Ash Prime (invisible)",
-    "4 primewarframesflair loki-prime-invisible": "Loki Prime (invisible)",
     
     
     /* Regular Warframes (0-30) */
@@ -94,10 +92,6 @@ flair.names = {
     "28 regularwarframesflair volt": "Volt",
     "29 regularwarframesflair wukong": "Wukong",
     "30 regularwarframesflair zephyr": "Zephyr",
-    "0 regularwarframesflair ash-invisible": "Ash (invisible)",
-    "12 regularwarframesflair loki-invisible": "Loki (invisible)",
-    "22 regularwarframesflair rhino-charging": "Rhino (charging)",
-    "24 regularwarframesflair titania-flying": "Titania (flying)",
     
     
     /* Deluxe Warframe Skins (0-11)*/
@@ -113,8 +107,6 @@ flair.names = {
     "8 deluxewarframeskinsflair saryn-orphid-skin": "Saryn Orphid skin",
     "9 deluxewarframeskinsflair trinity-strega-skin": "Trinity Strega skin",
     "10 deluxewarframeskinsflair valkyr-gersemi-skin": "Valkyr Gersemi skin",
-    "0 deluxewarframeskinsflair ash-koga-skin-invisible": "Ash Koga skin (invisible)",
-    "3 deluxewarframeskinsflair loki-knave-skin-invisible": "Loki Knave skin (invisible)",
     
     
     /* TennoGen Warframe Skins (0-39)*/
@@ -158,8 +150,6 @@ flair.names = {
     "30 tennogenwarframeskinsflair volt-graxx-skin": "Volt Graxx skin (by Faven_PS)",
     "31 tennogenwarframeskinsflair zephyr-hagoromo-skin": "Zephyr Hagoromo skin (by Hitsu San)",
     "32 tennogenwarframeskinsflair zephyr-skeiron-skin": "Zephyr Skeiron skin (by novadragon01)",
-    "33 tennogenwarframeskinsflair ash-bai-hu-skin-invisible": "Ash Bai Hu skin (by Hitsu San) (invisible)",
-    "34 tennogenwarframeskinsflair loki-incubus-skin-invisible": "Loki Incubus skin (by Volkovyi) (invisible)",
 
     
     
@@ -181,8 +171,6 @@ flair.names = {
     "14 immortalwarframeskinsflair valkyr-immortal-skin": "Valkyr Immortal skin",
     "15 immortalwarframeskinsflair vauban-immortal-skin": "Vauban Immortal skin",
     "16 immortalwarframeskinsflair volt-immortal-skin": "Volt Immortal skin",
-    "0 immortalwarframeskinsflair ash-immortal-skin-invisible": "Ash Immortal skin (invisible)",
-    "5 immortalwarframeskinsflair loki-immortal-skin-invisible": "Loki Immortal skin (invisible)",
     
     
     /* Other Warframe Skins (0-6) */
@@ -208,8 +196,6 @@ flair.names = {
     /*"58 deluxewarframeskinsflair saryn-orphid-helmet": "Saryn Orphid helmet",*/
     /*"59 deluxewarframeskinsflair trinity-strega-helmet": "Trinity Strega helmet",*/
     /*"60 deluxewarframeskinsflair valkyr-gersemi-helmet": "Valkyr Gersemi helmet",*/
-    "50 deluxewarframeskinsflair ash-koga-helmet-invisible": "Ash Koga helmet (invisible)",
-    /*"53 deluxewarframeskinsflair loki-knave-helmet-invisible": "Loki Knave helmet (invisible)",*/
     
     
     /* TennoGen Warframe Helmets (0-76)*/
@@ -290,11 +276,6 @@ flair.names = {
     "64 tennogenwarframehelmetsflair zephyr-migisi-helmet": "Zephyr Migisi helmet (by FrellingHazmot)",
     "65 tennogenwarframehelmetsflair zephyr-monsoon-helmet": "Zephyr Monsoon helmet (by artarrwen)",
     "66 tennogenwarframehelmetsflair zephyr-skeiron-helmet": "Zephyr Skeiron helmet (by novadragon01)",
-    "67 tennogenwarframehelmetsflair ash-bai-hu-helmet-invisible": "Ash Bai Hu helmet (by Hitsu San) (invisible)",
-    "0 tennogenwarframehelmetsflair ash-carabid-helmet-invisible": "Ash Carabid helmet (by artarrwen) (invisible)",
-    "25 tennogenwarframehelmetsflair loki-ersatz-helmet-invisible": "Loki Ersatz helmet (invisible) (by Rekkou)",
-    "70 tennogenwarframehelmetsflair loki-incubus-helmet-invisible": "Loki Incubus helmet (invisible) (by Volkovyi)",
-    "26 tennogenwarframehelmetsflair loki-rogue-helmet-invisible": "Loki Rogue helmet (invisible) (by artarrwen)",
 
         
     /* Other Warframe Helmets (0-67) */
@@ -366,11 +347,6 @@ flair.names = {
     "63 otherwarframehelmetsflair wukong-dasheng-helmet": "Wukong Dasheng helmet",
     "64 otherwarframehelmetsflair zephyr-cierzo-helmet": "Zephyr Cierzo helmet",
     "65 otherwarframehelmetsflair zephyr-tengu-helmet": "Zephyr Tengu helmet",
-    "0 otherwarframehelmetsflair ash-locust-helmet-invisible": "Ash Locust helmet (invisible)",
-    "1 otherwarframehelmetsflair ash-scorpion-helmet-invisible": "Ash Scorpion helmet (invisible)",
-    "28 otherwarframehelmetsflair loki-enigma-helmet-invisible": "Loki Enigma helmet (invisible)",
-    "29 otherwarframehelmetsflair loki-essence-helmet-invisible": "Loki Essence helmet (invisible)",
-    "30 otherwarframehelmetsflair loki-swindle-helmet-invisible": "Loki Swindle helmet (invisible)",
     
     
     /* companions (0-31) */
@@ -406,7 +382,6 @@ flair.names = {
     "29 companionsflair kubrow-raksa": "Raksa Kubrow",
     "30 companionsflair kubrow-sahasa": "Sahasa Kubrow",
     "31 companionsflair kubrow-sunika": "Sunika Kubrow",
-    "28 companionsflair kubrow-huras-invisible": "Huras Kubrow (invisible)",
 
     
     /* glyphs (0-58) */
@@ -469,9 +444,6 @@ flair.names = {
     "56 glyphsflair nyx-in-action-glyph": "Nyx in Action glyph",
     "57 glyphsflair saryn-in-action-glyph": "Saryn in Action glyph",
     "58 glyphsflair valkyr-in-action-glyph": "Valkyr in Action glyph",
-    "0 glyphsflair ash-in-action-glyph-invisible": "Ash in Action glyph (invisible)",
-    "17 glyphsflair loki-in-action-glyph-invisible": "Loki in Action glyph (invisible)",
-    "18 glyphsflair loki-noggle-glyph-invisible": "Loki noggle glyph (invisible)",
 
     
     
@@ -547,8 +519,6 @@ flair.names = {
     "70 nogglesflair wukong-noggle": "Wukong noggle",
     "71 nogglesflair zephyr-noggle": "Zephyr noggle",
     "6 nogglesflair stalker-noggle": "??????? noggle",
-    "15 nogglesflair ash-noggle-invisible": "Ash noggle (invisible)",
-    "46 nogglesflair loki-noggle-invisible": "Loki noggle (invisible)",
     
     
     /* sigils */
