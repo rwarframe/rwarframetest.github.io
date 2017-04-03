@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<!-- Stylesheets -->
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans:300italic,400italic,600italic,700italic,400,300,600,700" type="text/css" media="all">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans:300italic,400italic,600italic,700italic,400,300,600,700" type="text/css" media="all">
 		<link rel="stylesheet" href="style.css" type="text/css" media="all">
 		<link rel="stylesheet" href="flair.css" type="text/css" media="all">
 		
@@ -67,7 +67,9 @@
 				<label for="flair-filter-sheet">
 					<span>Filter by Category:</span>
 					<select id="flair-filter-sheet" onchange="flair.updateCategoryFilter(this.value)">
-						<option value="ALL">All Flairs</option>
+						<optgroup label="All Flairs">
+							<option value="ALL">All Flairs</option>
+						</optgroup>
 
 						<optgroup label="Warframes">
 							<option value="primewarframesflair">Prime Warframes</option>
@@ -99,7 +101,7 @@
 							<option value="kubrowsflair">Kubrows</option>
 						</optgroup>
 
-						<optgroup label="Glyphs, Sigils, <!--Emblems, -->and Noggles">
+						<optgroup label="Glyphs, Sigils, and Noggles">
 							<option value="glyphsflair">Glyphs</option>
 							<option value="sigilsflair">Sigils</option>
 							<!--<option value="emblemsflair">Emblems/Badges</option>-->
