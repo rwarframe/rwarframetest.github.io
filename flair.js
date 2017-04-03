@@ -184,18 +184,18 @@ flair.names = {
         
         
     /* Deluxe Warframe Helmets (50-61)*/
-    "50 deluxewarframeskinsflair ash-koga-helmet": "Ash Koga helmet",
-    "51 deluxewarframeskinsflair banshee-soprana-helmet": "Banshee Soprana helmet",
-    "52 deluxewarframeskinsflair excalibur-proto-helmet": "Excalibur Proto helmet",
-    "61 deluxewarframeskinsflair frost-harka-helmet": "Frost Harka helmet",
-    /*"53 deluxewarframeskinsflair loki-knave-helmet": "Loki Knave helmet",*/
-    /*"54 deluxewarframeskinsflair nova-asuri-helmet": "Nova Asuri helmet",*/
-    "55 deluxewarframeskinsflair nyx-nemesis-helmet": "Nyx Nemesis helmet",
-    /*"56 deluxewarframeskinsflair oberon-feyarch-helmet": "Oberon Feyarch helmet",*/
-    /*"57 deluxewarframeskinsflair rhino-palatine-helmet": "Rhino Palatine helmet",*/
-    /*"58 deluxewarframeskinsflair saryn-orphid-helmet": "Saryn Orphid helmet",*/
-    /*"59 deluxewarframeskinsflair trinity-strega-helmet": "Trinity Strega helmet",*/
-    /*"60 deluxewarframeskinsflair valkyr-gersemi-helmet": "Valkyr Gersemi helmet",*/
+    "50 deluxewarframehelmetsflair ash-koga-helmet": "Ash Koga helmet",
+    "51 deluxewarframehelmetsflair banshee-soprana-helmet": "Banshee Soprana helmet",
+    "52 deluxewarframehelmetsflair excalibur-proto-helmet": "Excalibur Proto helmet",
+    "61 deluxewarframehelmetsflair frost-harka-helmet": "Frost Harka helmet",
+    /*"53 deluxewarframehelmetsflair loki-knave-helmet": "Loki Knave helmet",*/
+    /*"54 deluxewarframehelmetsflair nova-asuri-helmet": "Nova Asuri helmet",*/
+    "55 deluxewarframehelmetsflair nyx-nemesis-helmet": "Nyx Nemesis helmet",
+    /*"56 deluxewarframehelmetsflair oberon-feyarch-helmet": "Oberon Feyarch helmet",*/
+    /*"57 deluxewarframehelmetsflair rhino-palatine-helmet": "Rhino Palatine helmet",*/
+    /*"58 deluxewarframehelmetsflair saryn-orphid-helmet": "Saryn Orphid helmet",*/
+    /*"59 deluxewarframehelmetsflair trinity-strega-helmet": "Trinity Strega helmet",*/
+    /*"60 deluxewarframehelmetsflair valkyr-gersemi-helmet": "Valkyr Gersemi helmet",*/
     
     
     /* TennoGen Warframe Helmets (0-76)*/
@@ -374,16 +374,18 @@ flair.names = {
     "19 sentinelsflair helios-simaris-skin": "Helios Simaris skin",
     "20 sentinelsflair shade-sprite-skin": "Shade Sprite skin",
     "21 sentinelsflair wyrm-obsidian-skin": "Wyrm Obsidian skin (PS4 exclusive)",
-    "22 companionsflair kavat-a": "Kavat",
-    "23 companionsflair kavat-b": "Kavat",
-    "24 companionsflair kavat-c": "Kavat",
-    "25 companionsflair kavat-d": "Kavat",
-    "26 companionsflair kubrow": "Kubrow",
-    "27 companionsflair kubrow-chesa": "Chesa Kubrow",
-    "28 companionsflair kubrow-huras": "Huras Kubrow",
-    "29 companionsflair kubrow-raksa": "Raksa Kubrow",
-    "30 companionsflair kubrow-sahasa": "Sahasa Kubrow",
-    "31 companionsflair kubrow-sunika": "Sunika Kubrow",
+    
+    "22 kavatsflair kavat-a": "Kavat",
+    "23 kavatsflair kavat-b": "Kavat",
+    "24 kavatsflair kavat-c": "Kavat",
+    "25 kavatsflair kavat-d": "Kavat",
+    
+    "26 kubrowsflair kubrow": "Kubrow",
+    "27 kubrowsflair kubrow-chesa": "Chesa Kubrow",
+    "28 kubrowsflair kubrow-huras": "Huras Kubrow",
+    "29 kubrowsflair kubrow-raksa": "Raksa Kubrow",
+    "30 kubrowsflair kubrow-sahasa": "Sahasa Kubrow",
+    "31 kubrowsflair kubrow-sunika": "Sunika Kubrow",
 
     
     /* glyphs (0-58) */
