@@ -110,9 +110,9 @@ flair.names = {
 	"45 regularwarframesflair atlas-bundle": "Atlas (Brawler Bundle)",
 	"46 regularwarframesflair chroma-bundle": "Chroma (Dragon Bundle)",
 	"47 regularwarframesflair equinox-bundle": "Equinox (Mega Pack)",
-	"48 regularwarframesflair excalibur-bundle": "Excalibur (Continuity Collection)",
-	"49 regularwarframesflair excalibur-bundle": "Excalibur (Destreza Finesse Pack)",
-	"50 regularwarframesflair excalibur-bundle": "Excalibur (Gazal Complete Collection)",
+	"48 regularwarframesflair excalibur-bundle-1": "Excalibur (Continuity Collection)",
+	"49 regularwarframesflair excalibur-bundle-2": "Excalibur (Destreza Finesse Pack)",
+	"50 regularwarframesflair excalibur-bundle-3": "Excalibur (Gazal Complete Collection)",
 	"51 regularwarframesflair hydroid-bundle": "Hydroid (Update 13 Mega Pack)",
 	"52 regularwarframesflair inaros-bundle": "Inaros (Sands of Inaros Bundle)",
 	"53 regularwarframesflair ivara-bundle": "Ivara (Huntress Bundle)",
@@ -254,7 +254,7 @@ flair.names = {
 	/*"53 deluxewarframehelmetsflair loki-knave-helmet": "Loki Knave helmet",*/
 	/*"54 deluxewarframehelmetsflair nova-asuri-helmet": "Nova Asuri helmet",*/
 	"55 deluxewarframehelmetsflair nyx-nemesis-helmet": "Nyx Nemesis helmet",
-	/*"56 deluxewarframehelmetsflair oberon-feyarch-helmet": "Oberon Feyarch helmet",*/
+	"56 deluxewarframehelmetsflair oberon-feyarch-helmet": "Oberon Feyarch helmet",
 	/*"57 deluxewarframehelmetsflair rhino-palatine-helmet": "Rhino Palatine helmet",*/
 	/*"58 deluxewarframehelmetsflair saryn-orphid-helmet": "Saryn Orphid helmet",*/
 	/*"59 deluxewarframehelmetsflair trinity-strega-helmet": "Trinity Strega helmet",*/
@@ -442,8 +442,9 @@ flair.names = {
 	"156 operatorsflair varida-operator-suit-bundle": "Varida operator suit (Operator Suit Collection)",
 
 	
-	/* Companions (0-78) */
+	/* Companions (0-79) */
 	"0 sentinelsflair carrier-prime": "Carrier Prime",
+	"79 sentinelsflair helios-prime": "Helios Prime",
 	"1 sentinelsflair wyrm-prime": "Wyrm Prime",
 	"2 sentinelsflair shade-prisma": "Shade Prisma skin",
 	"3 sentinelsflair carrier": "Carrier",
@@ -479,7 +480,7 @@ flair.names = {
 	"41 kavatsflair hyekka": "Hyekka",
 	"42 kavatsflair kavat-hyekka-skin": "Kavat Hyekka skin",
 	"43 kavatsflair kavat-day-of-the-dead-wysar-armor": "Kavat Day of the Dead Wysar armor (Halloween exclusive)",
-	"44 kavatsflair kavat-ki’teer-armor": "Kavat Ki’Teer armor",
+	"44 kavatsflair kavat-kiâ€™teer-armor": "Kavat Kiâ€™Teer armor",
 	"45 kavatsflair kavat-kuva-armor": "Kavat Kuva armor",
 	"46 kavatsflair kavat-myrdin-armor": "Kavat Myrdin armor",
 	"47 kavatsflair kavat-saraba-armor": "Kavat Saraba armor",
@@ -508,7 +509,7 @@ flair.names = {
 	"59 kubrowsflair kubrow-bruja-armor": "Kubrow Bruja armor",
 	"60 kubrowsflair kubrow-ifrit-armor": "Kubrow Ifrit armor",
 	"61 kubrowsflair kubrow-jade-armor": "Kubrow Jade armor (XB1 exclusive)",
-	"62 kubrowsflair kubrow-ki’teer-armor": "Kubrow Ki’Teer armor",
+	"62 kubrowsflair kubrow-kiâ€™teer-armor": "Kubrow Kiâ€™Teer armor",
 	"63 kubrowsflair kubrow-kuva-armor": "Kubrow Kuva armor",
 	"64 kubrowsflair kubrow-pakal-armor": "Kubrow Pakal armor",
 	"65 kubrowsflair kubrow-rostam-armor": "Kubrow Rostam armor",
@@ -533,12 +534,12 @@ flair.names = {
 	"1 glyphsflair blood-lotus-glyph": "Blood Lotus glyph",
 	"2 glyphsflair butterfly-varna-glyph": "Butterfly Varna glyph",
 	"3 glyphsflair ceph-pinacoid-glyph": "Ceph Pinacoid glyph",
-	"4 glyphsflair clem-in-action-glyph": "Clem in Action glyph",	
-	"60 glyphsflair donwyn-glyph-i": "Donwyn glyph I (Valentine’s Day exclusive)",
-	"61 glyphsflair donwyn-glyph-ii": "Donwyn glyph II (Valentine’s Day exclusive)",
-	"62 glyphsflair donwyn-glyph-iii": "Donwyn glyph III (Valentine’s Day exclusive)",
-	"63 glyphsflair donwyn-glyph-iv": "Donwyn glyph IV (Valentine’s Day exclusive)",
-	"64 glyphsflair donwyn-glyph-v-": "Donwyn glyph V (Valentine’s Day exclusive)",
+	"4 glyphsflair clem-in-action-glyph": "Clem in Action glyph",
+	"60 glyphsflair donwyn-glyph-i": "Donwyn glyph I (Valentineâ€™s Day exclusive)",
+	"61 glyphsflair donwyn-glyph-ii": "Donwyn glyph II (Valentineâ€™s Day exclusive)",
+	"62 glyphsflair donwyn-glyph-iii": "Donwyn glyph III (Valentineâ€™s Day exclusive)",
+	"63 glyphsflair donwyn-glyph-iv": "Donwyn glyph IV (Valentineâ€™s Day exclusive)",
+	"64 glyphsflair donwyn-glyph-v-": "Donwyn glyph V (Valentineâ€™s Day exclusive)",
 	"5 glyphsflair ember-in-action-glyph": "Ember in Action glyph",
 	"6 glyphsflair excalibur-in-action-glyph": "Excalibur in Action glyph",
 	"7 glyphsflair excalibur-noggle-glyph": "Excalibur noggle glyph",
@@ -558,7 +559,7 @@ flair.names = {
 	"20 glyphsflair lotus-noggle-glyph": "Lotus noggle glyph",
 	"21 glyphsflair lunaro-glyph": "Lunaro glyph",
 	"22 glyphsflair mag-in-action-glyph": "Mag in Action glyph",
-	"23 glyphsflair mag-noggle-glyph": "Mag noggle glyph",	
+	"23 glyphsflair mag-noggle-glyph": "Mag noggle glyph",
 	"65 glyphsflair memetica-greedy-milk-glyph": "Greedy Milk Memetica glyph",
 	"66 glyphsflair memetica-potato-glyph": "Potato Memetica glyph",
 	"67 glyphsflair memetica-prodman-glyph": "Prodman Memetica glyph",
@@ -727,7 +728,7 @@ flair.names = {
 	"35 sigilsflair syndicate-cephalon-suda-level-7-sigil": "Cephalon Suda Multivariate sigil",
 	"36 sigilsflair syndicate-cephalon-suda-level-8-sigil": "Cephalon Suda Labryinth sigil",
 	"37 sigilsflair syndicate-cephalon-suda-level-9-sigil": "Cephalon Suda Hexan sigil",
-	"38 sigilsflair syndicate-cephalon-suda-level-10-sigil": "Cephalon Suda Oracle sigil",	
+	"38 sigilsflair syndicate-cephalon-suda-level-10-sigil": "Cephalon Suda Oracle sigil",
 	"56 sigilsflair syndicate-new-loka-sigil": "New Loka sigil",
 	"57 sigilsflair syndicate-new-loka-level-1-sigil": "New Loka Sacrifice sigil",
 	"58 sigilsflair syndicate-new-loka-level-2-sigil": "New Loka Seed sigil",
@@ -936,7 +937,7 @@ flair.names = {
 	"39 miscellaneousflair ayatan-cyan-star": "Ayatan cyan star",
 	"45 miscellaneousflair kuria": "Kuria",
 	"46 miscellaneousflair sacred-vessel": "Sacred vessel",
-	"51 miscellaneousflair exilus-adapter": "Exilus adapter",	
+	"51 miscellaneousflair exilus-adapter": "Exilus adapter",
 	"27 miscellaneousflair forma": "Forma",
 	"54 miscellaneousflair legendary-core": "Legendary core",
 	"55 miscellaneousflair module": "Module",
