@@ -397,7 +397,7 @@ flair.names = {
 	"74 otherwarframehelmetsflair excalibur-twitch-helmet": "Excalibur Twitch helmet",
 	"20 otherwarframehelmetsflair frost-aurora-helmet": "Frost Aurora helmet",
 	"21 otherwarframehelmetsflair frost-squall-helmet": "Frost Squall helmet",
-	"79 otherwarframehelmetsflair harrow-suffragan-helmet": "Harrow Suffragan helmet",
+	"80 otherwarframehelmetsflair harrow-suffragan-helmet": "Harrow Suffragan helmet",
 	"22 otherwarframehelmetsflair hydroid-ketos-helmet": "Hydroid Ketos helmet",
 	"23 otherwarframehelmetsflair hydroid-triton-helmet": "Hydroid Triton helmet",
 	"24 otherwarframehelmetsflair inaros-anubis-helmet": "Inaros Anubis helmet",
