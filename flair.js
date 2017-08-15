@@ -178,7 +178,7 @@ flair.names = {
 	"9 tennogenwarframeskinsflair frost-grost-skin": "Frost Grost skin (by Faven_PS)",
 	"10 tennogenwarframeskinsflair frost-hailstorm-skin": "Frost Hailstorm skin (by Arsenal)",
 	"11 tennogenwarframeskinsflair frost-vojnik-skin": "Frost Vojnik Battle-Damaged skin (by Volkovyi)",
-	"50 tennogenwarframeskinsflair hydroid-graxx-skin": "Hydroid Graxx Skin (by Faven_PS)",
+	/*"50 tennogenwarframeskinsflair hydroid-graxx-skin": "Hydroid Graxx Skin (by Faven_PS)",*/
 	"42 tennogenwarframeskinsflair ivara-arcuata-skin": "Ivara Arcuata skin (by Stenchfury)",
 	"43 tennogenwarframeskinsflair ivara-youkai-skin": "Ivara Youkai skin (by HitsuSan)",
 	"44 tennogenwarframeskinsflair limbo-vasiona-skin": "Limbo Vasiona skin (by Volkovyi)",
@@ -195,7 +195,7 @@ flair.names = {
 	"17 tennogenwarframeskinsflair nova-cygni-skin": "Nova Cygni skin (by Arsenal)",
 	"18 tennogenwarframeskinsflair nova-device-skin": "Nova Device skin (by posetisen)",
 	"19 tennogenwarframeskinsflair nova-gnova-skin": "Nova Gnova skin (by Faven_PS)",
-	"53 tennogenwarframeskinsflair nova-graxx": "Nova Graxx (by Faven_PS)",
+	"53 tennogenwarframeskinsflair nova-graxx": "Nova Graxx skin (by Faven_PS)",
 	"20 tennogenwarframeskinsflair nova-lamia-skin": "Nova Lamia skin (by Mz-3)",
 	"21 tennogenwarframeskinsflair nova-stinger-skin": "Nova Stinger skin (by Cheshire)",
 	"22 tennogenwarframeskinsflair nova-visage-skin": "Nova Visage skin (by Hitsu San)",
@@ -321,7 +321,7 @@ flair.names = {
 	"22 tennogenwarframehelmetsflair frost-summit-helmet": "Frost Summit helmet (by artarrwen)",
 	"23 tennogenwarframehelmetsflair frost-vojnik-helmet": "Frost Vojnik Battle-Damaged helmet (by Volkovyi)",
 	"24 tennogenwarframehelmetsflair frost-zastruga-helmet": "Frost Zastruga helmet (by Rekkou)",
-	"91 tennogenwarframehelmetsflair hydroid-graxx-helmet": "Hydroid Graxx Helmet (by Faven_PS)",
+	/*"91 tennogenwarframehelmetsflair hydroid-graxx-helmet": "Hydroid Graxx Helmet (by Faven_PS)",*/
 	"68 tennogenwarframehelmetsflair hydroid-rorqual-helmet": "Hydroid Rorqual helmet (by Rekkou)",
 	"79 tennogenwarframehelmetsflair ivara-arcuata-helmet": "Ivara Arcuata helmet (by Stenchfury)",
 	"80 tennogenwarframehelmetsflair ivara-youkai-helmet": "Ivara Youkai helmet (by HitsuSan)",
