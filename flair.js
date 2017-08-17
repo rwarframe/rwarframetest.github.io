@@ -178,7 +178,7 @@ flair.names = {
 	"9 tennogenwarframeskinsflair frost-grost-skin": "Frost Grost skin (by Faven_PS)",
 	"10 tennogenwarframeskinsflair frost-hailstorm-skin": "Frost Hailstorm skin (by Arsenal)",
 	"11 tennogenwarframeskinsflair frost-vojnik-skin": "Frost Vojnik Battle-Damaged skin (by Volkovyi)",
-	/*"50 tennogenwarframeskinsflair hydroid-graxx-skin": "Hydroid Graxx Skin (by Faven_PS)",*/
+	"50 tennogenwarframeskinsflair hydroid-graxx-skin": "Hydroid Graxx Skin (by Faven_PS)",
 	"42 tennogenwarframeskinsflair ivara-arcuata-skin": "Ivara Arcuata skin (by Stenchfury)",
 	"43 tennogenwarframeskinsflair ivara-youkai-skin": "Ivara Youkai skin (by HitsuSan)",
 	"44 tennogenwarframeskinsflair limbo-vasiona-skin": "Limbo Vasiona skin (by Volkovyi)",
