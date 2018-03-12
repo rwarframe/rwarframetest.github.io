@@ -248,7 +248,7 @@ flair.names = {
 	"27 tennogenwarframeskinsflair saryn-graxx-skin": "Saryn Graxx skin (by Faven)",
 	"38 tennogenwarframeskinsflair saryn-integra-skin": "Saryn Integra skin (by Cheshire)",
 	"72 tennogenwarframeskinsflair saryn-napellus-skin new": "Saryn Napellus skin (by lukinu_u)",
-	/*"73 tennogenwarframeskinsflair saryn-nitas-moda-skin new": "Saryn Nita's Moda skin (by Volkovyi)",*/
+	"73 tennogenwarframeskinsflair saryn-nitas-moda-skin new": "Saryn Nita's Moda skin (by Volkovyi)",
 	"74 tennogenwarframeskinsflair saryn-velenosa-skin new": "Saryn Velenosa skin (by Hitsu San)",
 	"60 tennogenwarframeskinsflair titania-unseelie-skin": "Titania Unseelie skin (by Rekkou)",
 	"75 tennogenwarframeskinsflair trinity-knightess-skin new": "Trinity Knightess skin (by Rekkou)",
@@ -450,7 +450,7 @@ flair.names = {
 	"52 tennogenwarframehelmetsflair saryn-graxx-helmet": "Saryn Graxx helmet (by Faven)",
 	"75 tennogenwarframehelmetsflair saryn-integra-helmet": "Saryn Integra helmet (by Cheshire)",
 	"121 tennogenwarframehelmetsflair saryn-napellus-helmet new": "Saryn Napellus helmet (by lukinu_u)",
-	/*"122 tennogenwarframehelmetsflair saryn-nitas-moda-helmet new": "Saryn Nita's Moda helmet (by Volkovyi)",*/
+	"122 tennogenwarframehelmetsflair saryn-nitas-moda-helmet new": "Saryn Nita's Moda helmet (by Volkovyi)",
 	"123 tennogenwarframehelmetsflair saryn-velenosa-helmet new": "Saryn Velenosa helmet (by Hitsu San)",
 	"104 tennogenwarframehelmetsflair titania-unseelie-helmet": "Titania Unseelie helmet (by Rekkou)",
 	"85 tennogenwarframehelmetsflair trinity-ancyra-helmet": "Trinity Ancyra helmet (by Arsenal)",
@@ -726,6 +726,7 @@ flair.names = {
 	"15 glyphsflair kuria-glyph": "Kuria glyph",
 	"16 glyphsflair kuria-idolized-glyph": "Kuria Idolized glyph",
 	"78 glyphsflair login-spectral-tide-glyph": "Spectral Tide glyph (650-day login reward)",
+	"92 glyphsflair login-guiding-rose-glyph new": "Guiding Rose glyph (750-day login reward)",
 	"17 glyphsflair loki-in-action-glyph": "Loki in Action glyph",
 	"18 glyphsflair loki-noggle-glyph": "Loki noggle glyph",
 	"19 glyphsflair lotus-balance-glyph": "Lotus Balance glyph",
